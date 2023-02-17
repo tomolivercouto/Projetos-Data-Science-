@@ -1,10 +1,10 @@
 # Projetos-Data-Science-
 
-<p align="center">
-  <img src="banner.png" >
-</p>
 
-#Everton Couto See More
+
+
+Everton Couto
+
 <sub>*Cientista de Dados * 
 
 Como Cientista de Dados  combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando Machine Learning a problemas reais da Área de Negócios, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
