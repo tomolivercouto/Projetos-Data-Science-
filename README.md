@@ -2,7 +2,6 @@
 
 
 
-
 Everton Couto
 
 <sub>*Cientista de Dados * 
