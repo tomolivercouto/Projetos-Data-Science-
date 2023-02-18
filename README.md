@@ -1,8 +1,4 @@
-# Projetos-Data-Science-
 
-
-
-Everton Couto
 
 <sub>*Cientista de Dados * 
 
