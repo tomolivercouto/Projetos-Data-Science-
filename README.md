@@ -16,3 +16,7 @@ Minhas credenciais incluem Bacharelado em Administração de Empresas, Ciência 
 
 ** Links: **
 *https://www.linkedin.com/in/everton-couto-a6a8873b
+  
+ # Projetos
+ 
+**Detecção de Fraudes em Cartões de Crédito** http://bit.ly/3IgTuAh
