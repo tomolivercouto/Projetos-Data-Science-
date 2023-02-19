@@ -19,6 +19,6 @@ Minhas credenciais incluem Bacharelado em Administração de Empresas, Ciência 
   
  # Projetos
  
-**Detecção de Fraudes em Cartões de Credito**: http://bit.ly/3IgTuAh
+**Detecção de Fraudes em Cartões de Crédito**: http://bit.ly/3IgTuAh
   
 **Setembro Amarelo: análise do suicídio no Brasil com Data Science** : http://bit.ly/3IDWYOF
