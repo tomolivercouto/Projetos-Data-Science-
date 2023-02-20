@@ -22,3 +22,5 @@ Minhas credenciais incluem Bacharelado em Administração de Empresas, Ciência 
 **Detecção de Fraudes em Cartões de Crédito**: http://bit.ly/3IgTuAh
   
 **Setembro Amarelo: análise do suicídio no Brasil com Data Science** : http://bit.ly/3IDWYOF
+
+  **Machine Learning para a Detecção do Câncer de Mama**: http://bit.ly/3If0v4p
