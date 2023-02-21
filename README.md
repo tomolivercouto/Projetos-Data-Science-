@@ -23,6 +23,8 @@ Minhas credenciais incluem Bacharelado em Administração de Empresas, Ciência 
   
 **Setembro Amarelo: análise do suicídio no Brasil com Data Science** : http://bit.ly/3IDWYOF
 
-  **Machine Learning para a Detecção do Câncer de Mama**: http://bit.ly/3If0v4p
+**Machine Learning para a Detecção do Câncer de Mama**: http://bit.ly/3If0v4p
   
-  **Avaliação de Risco de Crédito Nubank**: http://bit.ly/3xTyydT
+ **Avaliação de Risco de Crédito Nubank**: http://bit.ly/3xTyydT
+ 
+ **Analises, Materiais da Agricultura**: http://bit.ly/3Kt04q3
